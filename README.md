@@ -9,7 +9,7 @@ This repository provides an analysis of the monthly changes in the Ghanaian Cedi
 The exchange rate between the Ghanaian Cedi (GHS) and the US Dollar (USD) reflects monthly percentage changes throughout 2024. This project includes a visualization that highlights the trends, including the months with the lowest and highest percentage changes.
 
 Key features of the analysis:
-  - **Data Source**: Bank of Ghana.
+  - **Data Source**: The Bank of Ghana.
 - **Visualization Tool**: R (RStudio) programming language with the `ggplot2` library.
 - **Purpose**: To provide an intuitive view of the GHS to USD exchange rate dynamics for 2024.
 
@@ -117,4 +117,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgment
 
-**Bank of Ghana**: For providing the data used in this analysis.
+**The Bank of Ghana**: For providing the data used in this analysis.
